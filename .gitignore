@@ -1,0 +1,7 @@
+*__pycache__
+*.DS_Store
+data/iFashion/img
+data/iFashion/json
+data/iFashion/log.txt
+output
+train_list.sh
